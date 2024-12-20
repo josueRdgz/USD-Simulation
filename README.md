@@ -1,4 +1,4 @@
-# USD-Simulation
+# DollarMovement
 Josué Rodríguez Ramírez
 Grupo: C-312 MATCOM
 
